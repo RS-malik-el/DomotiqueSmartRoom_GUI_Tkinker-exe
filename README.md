@@ -12,5 +12,5 @@ Suivez ses vidéos pour plus de détails :
 Laisser un commentaire des difficultés rencontré ou des suggestions possible afin d'améliorer le code.
 
 * Aperçu du logiciel
-![Aperçu 1 du logiciel](image/image 1.png)
-![Aperçu 2 du logiciel](image/image 2.png)
++ ![Aperçu 1 du logiciel](image/image 1.png)
++ ![Aperçu 2 du logiciel](image/image 2.png)
