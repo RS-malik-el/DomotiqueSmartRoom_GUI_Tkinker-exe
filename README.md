@@ -1,6 +1,6 @@
 # Projet_GUI_Tkinker : Domotique SmartRoom
 
-*Version d'essais*
+#*Version d'essais*
 
 Ce logiciel est un prototype d'essais développé à des fins d'expérimentation pour communiquer par Bluetooth avec des cartes électronique comme l'arduino et l'esp32...
 
