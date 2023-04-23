@@ -4,6 +4,11 @@
 
 Ce logiciel est un prototype d'essais développé à des fins d'expérimentation pour communiquer par Bluetooth avec des cartes électronique comme l'arduino et l'esp32...
 
+Les données de température, de l'humidité et de l'éclairage sont envoyées depuis l'hôte (ESP32...) sous cette forme (type str) : "T00.00 H00.00 E000"
+T : Température
+H : Humidité
+E : Eclairage
+
 Aucune garantit de fonctionner correctement est donné.  
 
 Suivez ses vidéos pour plus de détails :
